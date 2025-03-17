@@ -1,7 +1,7 @@
 # Incentive-Inference
 Causal Inference Model: Sales-Incentive Analysis using DoubleML
 
-```{mermaid}
+```mermaid
 flowchart TD
     %% Main Data Sections
     RawData([Raw Input Data]):::inputNode
